@@ -1,0 +1,38 @@
+# ModelSim / QuestaSim
+transcript
+vsim.wlf
+*.wlf
+*.log
+*.jou
+*.pb
+*.dbg
+*.bak
+work/
+
+# Wave databases
+*.vcd
+*.vpd
+
+# Quartus
+db/
+incremental_db/
+output_files/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*~
+*.orig
